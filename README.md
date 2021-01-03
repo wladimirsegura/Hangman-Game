@@ -6,3 +6,5 @@
  * convert PDF file in a list
  * extract usable words
  
+ First try git
+ 
